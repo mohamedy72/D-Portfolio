@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../../sass/main.scss",
+        "../../../sass/utilities/_variables.scss",
+        "../../../sass/utilities/_fonts.scss",
+        "../../../sass/utilities/_grid.scss",
+        "../../../sass/utilities/_flex.scss",
+        "../../../sass/layout/_header.scss",
+        "../../../sass/layout/_hero.scss",
+        "../../../sass/layout/_about.scss",
+        "../../../sass/layout/_parteners.scss",
+        "../../../sass/layout/_showcase.scss",
+        "../../../sass/layout/_features.scss",
+        "../../../sass/layout/_career.scss",
+        "../../../sass/layout/_contact.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
